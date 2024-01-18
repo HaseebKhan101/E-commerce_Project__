@@ -2,8 +2,6 @@
 
 Welcome to the MERN Stack E-Commerce Project! I developed this project to create a full fledged E-commerce website having a feature-rich full-stack web application using the powerful combination of MongoDB, Express, React, and Node.js. I created a dynamic and responsive user interface, establish a robust back-end API, and manage data efficiently in a NoSQL database.
 
-## Project Overview
-
 ## Project Development Overview
 
 To give you a glimpse of the development journey, here's a brief overview of each major section:
